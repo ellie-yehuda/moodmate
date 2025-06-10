@@ -1,0 +1,12 @@
+# For installing/upgrading all dependencies
+# pip install -U -r requirements.txt
+
+langchain>=0.2
+langchain-together>=0.1.5
+together
+python-dotenv
+fastapi
+uvicorn
+pytz
+black
+requests 
