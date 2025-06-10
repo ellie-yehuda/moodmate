@@ -1,12 +1,28 @@
-# For installing/upgrading all dependencies
+# MoodMate Backend Dependencies
+# For installing/upgrading all dependencies:
 # pip install -U -r requirements.txt
 
+# LangChain for orchestrating LLM interactions
 langchain>=0.2
+
+# LangChain adapter for Together AI
 langchain-together>=0.1.5
+
+# Together AI client library
 together
+
+# Environment variable management
 python-dotenv
+
+# FastAPI framework and server
 fastapi
 uvicorn
+
+# Timezone handling
 pytz
+
+# Code formatting
 black
+
+# HTTP requests library
 requests 
