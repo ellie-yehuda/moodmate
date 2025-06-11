@@ -1,7 +1,5 @@
 # MoodMate - Your Personal Emotional Companion
 
-![MoodMate Logo](public/animations/welcome.json)
-
 ## 📱 Overview
 
 MoodMate is a modern web application designed to help users track, understand, and improve their emotional well-being. Using advanced AI technology, MoodMate provides personalized insights and support based on your emotional state.
@@ -171,15 +169,9 @@ MoodMate uses advanced AI models from Together AI to:
 2. Generate personalized insights and recommendations
 3. Provide supportive conversation through the chat interface
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+## Future Plans
+1. Add User Authentication
+2. Customize Home Screen with insights and Trends
 
 ## 📜 License
 
